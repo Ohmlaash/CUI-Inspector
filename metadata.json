@@ -1,5 +1,0 @@
-{
-  "name": "ComfyUI Metadata Inspector",
-  "description": "A self-contained, dependencyless web app to inspect image metadata and detect ComfyUI workflows.",
-  "requestFramePermissions": []
-}
